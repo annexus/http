@@ -3,6 +3,7 @@
     "description": "PSR-7 Http message implementation",
     "keywords": ["annexus", "psr", "psr-7", "http", "http-message", "request", "response"],
     "license": "MIT",
+	
     "authors": [
         {
             "name": "Annexus",
